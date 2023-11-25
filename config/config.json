@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "davidanacona",
+    "database": "practicas4",
+    "host": "database-1.c5zuq7drfcgu.us-east-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "admin",
+    "password": "davidanacona",
+    "database": "cpdc_backend",
+    "host": "database-1.c5zuq7drfcgu.us-east-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "admin",
+    "password": "davidanacona",
+    "database": "cpdc_backend",
+    "host": "database-1.c5zuq7drfcgu.us-east-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
